@@ -1,0 +1,13 @@
+{
+  "name": "joyson-multiplayer-game",
+  "version": "2.1.0",
+  "description": "Multiplayer Emoji & Mobs Sandbox Game with Global PNG Sprites and Spacebar Mob Spawn",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
