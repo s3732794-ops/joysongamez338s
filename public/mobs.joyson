@@ -1,0 +1,50 @@
+{character: skull
+name: 'Fury Skull'
+emoji: '💀'
+hp: 110
+damage: 81
+hit_spd: 0.2
+speed: 1.8
+range: 2.5
+type: melee
+mobBehavior: hostile
+}
+
+{character: ar
+name: 'Archer'
+emoji: '🏹'
+hp: 110
+damage: 82
+hit_spd: 0.5
+speed: 1.9
+range: 15
+type: ranged
+projectile_emoji: '🏹'
+projectile_spd: 10.1
+projectile_scale: 0.5
+mobBehavior: hostile
+}
+
+{character: cube
+name: 'living cube'
+emoji: '🟩'
+scale: 1.5
+hp: 1500
+speed: 1.9
+type: pacific
+mobBehavior: pacifist
+}
+
+{character: bob
+name: 'Melee Bob'
+emoji: '🔴'
+hp: 500
+damage: 50
+hit_spd: 0.2
+speed: 2.1
+range: 1.0
+type: melee
+mobBehavior: passive
+}
+
+};
